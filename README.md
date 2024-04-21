@@ -1,4 +1,4 @@
-# Playlist Projesi
+# Playlist Project
 Bu depo, kullanıcıların müzik çalma listelerini oluşturmasına ve paylaşmasına olanak tanıyan bir proje içermektedir. Proje, müzik severlerin favori şarkılarını ve sanatçılarını keşfetmelerine ve başkalarıyla paylaşmalarına olanak tanır. Aynı zamanda, kullanıcıların çeşitli müzik tarzlarını ve türlerini keşfetmelerine yardımcı olmak için önerilen çalma listeleri sunar.
 
 # Özellikler 
